@@ -1,0 +1,11 @@
+jquery (client side code), DOM manipulation
+
+DOM: Document Object Model (view at a given point in time, RIGHT NOW)
+
+$(document) is a function, .ready() is a method of that, function() is being passed into .ready method
+.ready() is a callback function (it waits for the document to be ready before running) code in this script is running asyncronously
+javascript runs right away because it is loaded in the head of the HTML file
+$() is a selector, selects an element
+$ could be replaced with jQuery, they both act the same
+
+jQuery is very good at event handling (scrolls, clicks, text input, hovers, exiting, etc.)
