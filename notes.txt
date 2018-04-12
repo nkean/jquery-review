@@ -9,3 +9,5 @@ $() is a selector, selects an element
 $ could be replaced with jQuery, they both act the same
 
 jQuery is very good at event handling (scrolls, clicks, text input, hovers, exiting, etc.)
+
+descendent selectors: .deleteButton is descendent of listOfNames
